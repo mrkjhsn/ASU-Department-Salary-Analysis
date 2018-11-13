@@ -5,7 +5,8 @@ The State Press has published the [datasets](http://www.statepress.com/article/2
 
 I have heard college football coaching staff are paid huge sums.  This was bourn out in my analysis.  Additionally, over the last five years the amount spent on athletic salaries has increased more than any other department receiving in excess of 10M in salary.
 
-As I continue to get better with SQL this was an opportunity for me to use two subselects, along with an inner join.
+#### Learning Objectives 
+As I continue to get better with SQL this was an opportunity for me to use two subselects, along with an inner join.  Additionally I formated the salary amounts using _currency_ and the percent change using _percent_ format.
 
 #### Other things to consider: 
 
