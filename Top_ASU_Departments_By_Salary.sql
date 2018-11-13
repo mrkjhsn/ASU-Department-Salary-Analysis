@@ -1,5 +1,5 @@
 --finds top ASU departments by salary spending, and change over the past 5 years
-select
+	select
 		Y17.Department_Description
 		,format(Y12.Salary,'c') as FY12
 		,format(Y17.Salary,'c') as FY17
