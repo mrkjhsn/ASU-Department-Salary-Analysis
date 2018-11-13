@@ -3,7 +3,7 @@ Which departments at ASU have the largest salary expenditures, and how has this 
 
 The State Press has published the [datasets](http://www.statepress.com/article/2017/04/spinvestigative-salary-database) of all salaries paid to ASU employees over the past 5 years.  I was interested in seeing which departments were paying the largest amounts in salary.  
 
-I have heard college football coaching staff are paid huge sums.  This was bourn out in my analysis.  Additionally, over the last five years the amount spent on athletic salaries has increased more than any other department receiving in excess of 10M in salary.
+SDA Administration stands for Sun Devil Athletics Administration, the ASU department from which all athletic salaries are paid.  I have heard college football coaching staff are paid huge sums.  This was bourn out in my analysis.  Additionally, over the last five years the amount spent on athletic salaries has increased more than any other department receiving in excess of 10M in salary.
 
 #### Learning Objectives 
 As I continue to get better with SQL this was an opportunity for me to use two subselects in the same query, along with an inner join.  Additionally I formated the salary amounts using _currency_ and the percent change using _percent_ format to allow for better readability.
