@@ -12,4 +12,4 @@ SDA Administration stands for Sun Devil Athletics Administration, the ASU depart
 #### Other things to consider: 
 
 1. how the distribution of incomes in the Sun Devil Athletics department compares to the distribution across the campus.  For instance, what percent of earners make up the top 50% of the salary paid within each department.
-2. can the percent change in salaries over the past 5 years be an effective indicator as to the direction ASU is taking as it positions itself as an innovator?
+2. ASU marketing materials make a big deal about how it is ranked #1 in inovation.  Can the percent change in salaries over the past 5 years be an effective indicator as to the direction ASU is taking as it positions itself as an innovator?
