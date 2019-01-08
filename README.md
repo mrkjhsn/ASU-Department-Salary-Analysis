@@ -1,7 +1,7 @@
 # ASU-Department-Salary-Analysis
-Which departments at ASU have the largest salary expenditures, and how has this changed over the last 5 years.
+Which departments at ASU have the largest salary expenditures, and how has this changed over the last 5 years?
 
-The State Press has published the [datasets](http://www.statepress.com/article/2017/04/spinvestigative-salary-database) of all salaries paid to ASU employees over the past 5 years.  I was interested in seeing which departments were paying the largest amounts in salary.  
+The State Press has published the [datasets](http://www.statepress.com/article/2017/04/spinvestigative-salary-database) of all salaries paid to ASU employees over the past 5 years(2012 - 2017).  I was interested in seeing which departments were paying the largest amounts in salary.  
 
 #### Learning Objectives:
 As I continue to get better with SQL this was an opportunity for me to use two subselects in the same query, along with an inner join.  Additionally, I formated the salary amounts using _currency_ and the percent change using _percent_ format to allow for better readability.
