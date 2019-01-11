@@ -12,7 +12,7 @@ As I continue to get better with SQL this was an opportunity for me to use two s
 #### Results:
 For both of my queries SDA Administration(Sun Devil Athletics Administration) was at the top of the list.
 1.  For 2017 almost twice as much is spent on SDA Administration(23.3M) versus the next highest paid department(College of Law with 12.7M).  This represents a 52% increase over the amount spent in 2012.
-2.  For 2017 the standard deviation for the SDA Administration Department was $246K with a count of 219 personel in that department.  The next six departments below it terms of standard deviation only had a handful of personel.
+2.  For 2017 the standard deviation for the SDA Administration Department was $246K with a count of 219 personel in that department.  The next six departments below in terms of standard deviation only had a handful of personel.
 
 #### Other things to consider: 
 
