@@ -18,7 +18,7 @@
 		  on Y12.[Department_Description] = Y17.[Department_Description]
 	order by Y17.Salary desc
 
-
+	
 	-- finds standard deviation of salaries for 2012 and 2017 as well as count of personel, orders desc by largest deviation in 2017
 	select
 		Y17.Department_Description
