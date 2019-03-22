@@ -16,5 +16,6 @@ For both of my queries SDA Administration(Sun Devil Athletics Administration) wa
 
 #### Other things to consider: 
 
-1. how the distribution of incomes in the Sun Devil Athletics department compares to the distribution across the campus.  For instance, what percent of earners make up the top 50% of the salary paid within each department.
+1. ~~how the distribution of incomes in the Sun Devil Athletics department compares to the distribution across the campus.  For instance, what percent of earners make up the top 50% of the salary paid within each department.~~
 2. ASU marketing materials make a big deal about how it is ranked #1 in inovation.  Can the percent change in salaries over the past 5 years be an effective indicator as to the direction ASU is taking as it positions itself as an innovator?
+3. Graph department *standard deviation* and *salary spending* year over year since 2012. 
