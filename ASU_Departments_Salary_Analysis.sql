@@ -44,7 +44,7 @@
 	order by Y17._Stdev2_ desc
 
 	-- compare all available years by total department salary spending
-	select
+	select top 10
 		Y18.Department_Description
 		,format(Y12.Salary,'c') as _2012
 		,format(Y13.Salary,'c') as _2013
@@ -92,42 +92,5 @@
 
 	order by Y18.Salary desc
 
-	-- for further analysis, using left join of departments from year over year
-	-- a number of departments have been done away with
-	-- year over year, how many departments get added/removed? is that indicative of ASU strategy?
-
-
-	select 
-		A.Department_Description as FY2012-- in 2013 but not 2012
-		,B.Department_Description FY2013
-	from [dbo].[ASU Employee Salary Data - 2012] as A
-	full outer join [dbo].[ASU Employee Salary Data - 2013] as B
-		on B.[Department_Description] = A.Department_Description 
-	where A.Department_Description is null
-	group by A.Department_Description, B.Department_Description
-	
-	---------------	
-	select 
-		A.Department_Description -- in 2012 but not 2013
-		,B.Department_Description
-	from [dbo].[ASU Employee Salary Data - 2012] as A
-	full outer join [dbo].[ASU Employee Salary Data - 2013] as B
-		on B.[Department_Description] = A.Department_Description 
-	where B.Department_Description is null
-	group by A.Department_Description, B.Department_Description
 
 	
-	
-	-- finds unique number of departments in one lump sum?
-	select
-		count(A.Department_Description)
-	from
-	(select 
-		count(FY13.Department_Description) as count_ 
-		,FY14.Department_Description
-	from [dbo].[ASU Employee Salary Data - 2013] as FY13
-full outer join [dbo].[ASU Employee Salary Data - 2014] as FY14 
-		on FY14.Department_Description = FY13.Department_Description 
-	
-	group by FY13.Department_Description, FY14.Department_Description
-	having FY13.Department_Description is null ) as A   --in 2014 but not 2013)
