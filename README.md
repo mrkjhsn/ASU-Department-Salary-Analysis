@@ -4,14 +4,14 @@ Which departments at ASU have the largest salary expenditures, and how has this 
 #### Questions:
 
 1. how has department salary spending changed over time?
-  - most departments have increased relatively modestly with the exception of SDA Administration.
+    - most departments have increased relatively modestly with the exception of SDA Administration.
 2. which departments are most highly funded in terms of salary?
-  - SDA Administration(Sun Devil Athletics) receives the most salary spending by over fifty percent compared to the next highest department.
+    - SDA Administration(Sun Devil Athletics) receives the most salary spending by over fifty percent compared to the next highest department.
 3. which departments have the highest salary standard deviation?
-  - SDA Administration
+    - SDA Administration
 3. trends in the number of departments created and disolved each year?
-  - Salary spend on departments created has always exceeded salary spend on departments disolved
-  - Count of deparments created and disolved has generally increased each year, with departments disolved tracking more predictably than departments disolved.
+    - Salary spend on departments created has always exceeded salary spend on departments disolved
+    - Count of deparments created and disolved has generally increased each year, with departments disolved tracking more predictably than departments disolved.
 
 #### Other things to consider: 
 
