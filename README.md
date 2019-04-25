@@ -12,6 +12,7 @@ Which departments at ASU have the largest salary expenditures, and how has this 
 3. trends in the number of departments created and disolved each year?
     - Salary spend on departments created has always exceeded salary spend on departments disolved
     - Count of deparments created and disolved has generally increased each year, with departments disolved tracking more predictably than departments disolved.
+    - For 2016 there was a significant drop in *salary* for departments added and removed which doesn't show up in the *count* of departments added and removed for 2016.  
 
 #### Other things to consider: 
 
