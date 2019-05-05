@@ -1,3 +1,20 @@
+
+-- link all years of data together
+select * from [dbo].[ASU Employee Salary Data - 2012]
+union
+select * from [dbo].[ASU Employee Salary Data - 2013]
+union
+select * from [dbo].[ASU Employee Salary Data - 2014]
+union
+select * from [dbo].[ASU Employee Salary Data - 2015]
+union
+select * from [dbo].[ASU Employee Salary Data - 2016]
+union
+select * from [dbo].[ASU Employee Salary Data - 2017]
+union
+select * from [dbo].[ASU Employee Salary Data - 2018]
+
+
 -- finds top ASU departments by salary spending, and percent change in spending over the past 5 years
 	select
 		Y17.Department_Description
