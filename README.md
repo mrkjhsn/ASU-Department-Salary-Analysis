@@ -5,10 +5,10 @@ ___
 #### Questions:
 
 Trends in the number of departments created and disolved each year?
-    - Salary spend on departments created has always exceeded salary spend on departments disolved
-    - Count of deparments created and disolved has generally increased each year, with departments disolved tracking more predictably than departments disolved.
-    - For 2016 there was a significant drop in *salary* for departments added and removed which doesn't show up in the *count* of departments added and removed for 2016.  
+ + Salary spend on departments created has always exceeded salary spend on departments disolved
+ + Count of deparments created and disolved has generally increased each year, with departments disolved tracking more predictably than departments disolved.
+ + For 2016 there was a significant drop in *salary* for departments added and removed which doesn't show up in the *count* of departments added and removed for 2016.  
 
 #### Other things to consider: 
 
-1. ASU marketing materials make a big deal about how it is ranked #1 in inovation.  Can the percent change in salaries over the past 6 years be an effective indicator as to the direction ASU is taking as it positions itself as an innovator?
+ASU marketing materials make a big deal about how it is ranked #1 in inovation.  Can the percent change in salaries over the past 6 years be an effective indicator as to the direction ASU is taking as it positions itself as an innovator?
